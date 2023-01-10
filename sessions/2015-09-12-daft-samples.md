@@ -25,6 +25,6 @@ If you like what I'm creating feel free to book me for your event by [sending a 
 
 ----
 
-[BACK](./README.md)
+[BACK](../README.md)
 
 ---- 
